@@ -1,0 +1,3 @@
+[submodule "pir/vendor/SEAL"]
+	path = pir/vendor/SEAL
+	url = git@github.com:microsoft/SEAL.git
